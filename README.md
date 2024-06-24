@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     git clone https://github.com/sachinmorre-git/Cross-Selling-Boosting-using-ML-and-Apriori-Algorithm.git
-    cd Cross-Selling-Boosting-using-ML-and-Apriori-Algorithm
+    cd CrossSellBoost
 
 2. Set up a virtual environment and activate it:
     python3 -m venv myenv
